@@ -1,0 +1,32 @@
+_repo: Dramatic-Reader-for-Lower-Grades_27764
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holbrook, Florence
+    birthdate: 1860
+    deathdate: 1932
+    gutenberg_agent_id: '9566'
+    url: http://www.gutenberg.org/2009/agents/9566
+description: ''
+gutenberg_issued: '2009-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27764'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers'
+- !lcsh 'Children''s plays'
+- !lcc 'PZ'
+tableOfContents: Little Red Riding-Hood -- Goldilocks, or the Three Bears -- The Bird
+  with the Broken Wing -- Cornelia and her Jewels -- Cinderella -- The Pied Piper
+  -- Mother Goose's Party -- Little Two-Eyes -- The Days of the Week -- Hänsel and
+  Gretel -- King Alfred -- Robin Hood and the Sad Knight -- William Tell -- Time and
+  the Seasons -- The Gingerbread Man -- The Good Fairy.
+title: Dramatic Reader for Lower Grades
+url: http://www.gutenberg.org/ebooks/27764
